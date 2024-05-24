@@ -1,5 +1,4 @@
-### Hi there 👋
+I build things that interest me.
 
-### I'm a new developer looking to improve my expertise in these languages and frameworks:
-#### TypeScript, React, Python, Go
-### I'm also interested in ML applications in various high impact industries
+Currently interested in: player data collection and visualization for videogames and AI agents playing through videogames.
+
