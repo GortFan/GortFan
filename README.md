@@ -1,4 +1,6 @@
-I build things that interest me.
+Current projects/interests:
 
-Currently interested in: player data collection and visualization for videogames and AI agents playing through videogames.
+1. Physics sim in SFML
+2. Fullstack data analytics app for HSR
+3. ML tomfoolery :P
 
